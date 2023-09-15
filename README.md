@@ -1,4 +1,4 @@
-# University-Medical-Centre-Database-SQL
+Design,Construct and Test Database Management System of University Medical Center's Data using SQL
 
 
 The objective of this project is to design, construct, and test a database management system that will be used to keep University Medical Center's data. 
